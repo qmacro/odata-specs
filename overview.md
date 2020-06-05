@@ -21,12 +21,13 @@ docs.oasis-open.org/odata/
   |    |    +- csprd05/part1-protocol/odata-v4.01-csprd05-part1-protocol               21 Jun 2019
   |    |    +- csprd06/part1-protocol/odata-v4.01-csprd06-part1-protocol               29 Sep 2019
   |    |    +- cs02/part1-protocol/odata-v4.01-cs02-part1-protocol                     14 Nov 2019
-  |    |    +- cos01/part1-protocol/odata-v4.01-cos01-part1-protocol                   28 Jan 2020 <--+
+  |    |    +- cos01/part1-protocol/odata-v4.01-cos01-part1-protocol                   28 Jan 2020 
+  |    |    +- os/part1-protocol/odata-v4.01-os-part1-protocol                         23 Apr 2020 <--+
   |    |    |                                                                                         |
   |    |    +- odata-v4.01-part1-protocol ------------------------------------------------------------+
   |    |    |  OData Version 4.01.
   |    |    |  Part 1: Protocol
-  |    |    |  Candidate OASIS Standard 01
+  |    |    |  OASIS Standard
   |    |    |
   |    |    |
   |    |    +- csprd01/part2-url-conventions/odata-v4.01-csprd01-part2-url-conventions 08 Dec 2016
@@ -37,9 +38,14 @@ docs.oasis-open.org/odata/
   |    |    +- csprd05/part2-url-conventions/odata-v4.01-csprd05-part2-url-conventions 21 Jun 2019
   |    |    +- csprd06/part2-url-conventions/odata-v4.01-csprd06-part2-url-conventions 26 Sep 2019
   |    |    +- cs02/part2-url-conventions/odata-v4.01-cs02-part2-url-conventions       14 Nov 2019
-  |    |    +- cos01/part2-url-conventions/odata-v4.01-cos01-part2-url-conventions     28 Jan 2020 <--+
+  |    |    +- cos01/part2-url-conventions/odata-v4.01-cos01-part2-url-conventions     28 Jan 2020
+  |    |    +- os/part2-url-conventions/odata-v4.01-os-part2-url-conventions           23 Apr 2020 <--+
   |    |    |                                                                                         |
   |    |    +- odata-v4.01-part2-url-conventions -----------------------------------------------------+
+  |    |       OData Version 4.01.
+  |    |       Part 2: URL Conventions
+  |    |       OASIS Standard
+  |    |     
   |    |
   |    +- v4.0/
   |         |
